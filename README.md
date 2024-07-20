@@ -1,1 +1,1 @@
-# PRODIGY_CS_05
+A simple and small script to sniff the packets
